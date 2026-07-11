@@ -32,4 +32,19 @@
     gap: 24px;
 }
 
+.features-icon{
+    background-color: #F4F4FD;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        gap: 0px;
+        width: 264px;
+            height: 112px;
+            padding: 24px 100px;
+    border: 1px solid;
+    border-color: #8E8F99;
+    border-radius: 4px;
+}
+
 
