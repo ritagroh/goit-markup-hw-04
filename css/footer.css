@@ -65,5 +65,9 @@
     color: #F4F4FD;
 }
 
+.footer-icon-bg:hover, .footer-icon-bg:focus{
+    background-color: #31D0AA;
+}
+
 
 
